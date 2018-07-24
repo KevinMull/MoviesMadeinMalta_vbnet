@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /App_Code/
+Disallow: /App_Data/
+Disallow: /baks/
+Disallow: /bin/
+Disallow: /Content/
+Disallow: /Scripts/
+Disallow: /temp/
+Disallow: /img/
+Disallow: /test/
